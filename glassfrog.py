@@ -94,5 +94,5 @@ for m in range(len(holacracy)):
 
         with open('C:/Users/anned/Documents/New Black/Holocracy/Glassfrog Git/Roles/' + 
           circles_dict[circle_id] + '/' + role_ + '.md', 'w') as f:
-            data = """#Role: %s \n\n#Purpose: %s \n\n#Accountabilities: %s \n\n#People: %s"""
+            data = """# Role: %s \n\n# Purpose: %s \n\n# Accountabilities: %s \n\n# People: %s"""
             f.write(data % (role, purpose, accountabilities, people))
