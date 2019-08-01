@@ -1,7 +1,7 @@
-#Role: High-Tech Core Circle 
+# Role: High-Tech Core Circle 
 
-#Purpose: None 
+# Purpose: None 
 
-#Accountabilities: [] 
+# Accountabilities: [] 
 
-#People: ['Lub ten Napel']
+# People: ['Lub ten Napel']
