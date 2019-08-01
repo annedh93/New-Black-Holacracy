@@ -1,7 +1,18 @@
-# Role: Technical Documentation EVA Interface SDK 
+# Technical Documentation EVA Interface SDK 
 
-# Purpose: Documentation of EVA Interface SDK is up-to-date and available to third parties. 
+## Purpose 
 
-# Accountabilities: ["Documenting EVA SDK's"] 
+Documentation of EVA Interface SDK is up-to-date and available to third parties. 
 
-# People: ['Mark Doeswijk']
+
+
+## Accountabilities 
+
+* Documenting EVA SDK's
+
+ 
+
+## People 
+
+* Mark Doeswijk
+

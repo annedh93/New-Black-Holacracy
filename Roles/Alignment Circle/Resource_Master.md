@@ -1,7 +1,18 @@
-# Role: Resource Master 
+# Resource Master 
 
-# Purpose: Optimally allocating resources for ongoing and upcoming projects. 
+## Purpose 
 
-# Accountabilities: ['Advise High-tech Core Circle on scalability resources'] 
+Optimally allocating resources for ongoing and upcoming projects. 
 
-# People: ['Joey Bakx']
+
+
+## Accountabilities 
+
+* Advise High-tech Core Circle on scalability resources
+
+ 
+
+## People 
+
+* Joey Bakx
+

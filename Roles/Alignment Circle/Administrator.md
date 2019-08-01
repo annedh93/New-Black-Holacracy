@@ -1,7 +1,26 @@
-# Role: Administrator 
+# Administrator 
 
-# Purpose: The administration is complete and timely. 
+## Purpose 
 
-# Accountabilities: ['Maintaining financial administration', 'Paying taxes', 'Maintaining payroll', 'Taking employee off payroll upon termination contract', 'Maintaining third-party contracts'] 
+The administration is complete and timely. 
 
-# People: ['Steven Bakker']
+
+
+## Accountabilities 
+
+* Maintaining financial administration
+
+* Paying taxes
+
+* Maintaining payroll
+
+* Taking employee off payroll upon termination contract
+
+* Maintaining third-party contracts
+
+ 
+
+## People 
+
+* Steven Bakker
+

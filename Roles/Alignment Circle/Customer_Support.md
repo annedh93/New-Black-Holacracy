@@ -1,7 +1,20 @@
-# Role: Customer Support 
+# Customer Support 
 
-# Purpose: None 
+## Purpose 
 
-# Accountabilities: ['Reproduceren, documenteren, agenderen en escaleren van issues', 'Bieden van tweedelijns support aan klanten'] 
+None 
 
-# People: ['Robert van der Poel']
+
+
+## Accountabilities 
+
+* Reproduceren, documenteren, agenderen en escaleren van issues
+
+* Bieden van tweedelijns support aan klanten
+
+ 
+
+## People 
+
+* Robert van der Poel
+

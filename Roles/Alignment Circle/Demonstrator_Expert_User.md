@@ -1,7 +1,22 @@
-# Role: Demonstrator/Expert User 
+# Demonstrator/Expert User 
 
-# Purpose: None 
+## Purpose 
 
-# Accountabilities: ['Verzorgen van demo’s', "Bouwen van demo's", 'Opzetten en aansturen Train de trainer'] 
+None 
 
-# People: ['Robert van der Poel']
+
+
+## Accountabilities 
+
+* Verzorgen van demo’s
+
+* Bouwen van demo's
+
+* Opzetten en aansturen Train de trainer
+
+ 
+
+## People 
+
+* Robert van der Poel
+

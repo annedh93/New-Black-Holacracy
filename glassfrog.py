@@ -87,12 +87,20 @@ for m in range(len(holacracy)):
 
         accountability_id = account_dict[role_id]
         accountabilities = [accountabilities_dict[x] for x in accountability_id]
-    
+        account_string = ""
+        if len(accountabilities) > 0:
+            for i in range(len(accountabilities)):
+                account_string = account_string + "* " + accountabilities[i] + "\n\n"
+            
         purpose = purpose_dict[role_id]
 
         people = [people_dict[x] for x in people_id]
+        people_string = ""
+        if len(people) > 0:
+            for i in range(len(people)):
+                people_string = people_string + "* " + people[i] + "\n\n"
 
         with open('C:/Users/anned/Documents/New Black/Holocracy/Glassfrog Git/Roles/' + 
           circles_dict[circle_id] + '/' + role_ + '.md', 'w') as f:
-            data = """# Role: %s \n\n# Purpose: %s \n\n# Accountabilities: %s \n\n# People: %s"""
-            f.write(data % (role, purpose, accountabilities, people))
+            data = """# %s \n\n## Purpose \n\n%s \n\n\n\n## Accountabilities \n\n%s \n\n## People \n\n%s"""
+            f.write(data % (role, purpose, account_string, people_string))

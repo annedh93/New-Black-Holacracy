@@ -1,7 +1,24 @@
-# Role: Office Facilitation 
+# Office Facilitation 
 
-# Purpose: Everyone has what he/she needs to function properly. 
+## Purpose 
 
-# Accountabilities: ['Purchasing and managing required devices for professional and personal use in consultation with system administrator', 'Ordering weekly shopping', 'Facilitating daily lunch', 'Ensuring the return of hardware upon termination of contract of an employee'] 
+Everyone has what he/she needs to function properly. 
 
-# People: ['Robert van der Poel']
+
+
+## Accountabilities 
+
+* Purchasing and managing required devices for professional and personal use in consultation with system administrator
+
+* Ordering weekly shopping
+
+* Facilitating daily lunch
+
+* Ensuring the return of hardware upon termination of contract of an employee
+
+ 
+
+## People 
+
+* Robert van der Poel
+

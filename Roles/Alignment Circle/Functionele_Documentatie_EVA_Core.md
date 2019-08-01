@@ -1,7 +1,18 @@
-# Role: Functionele Documentatie EVA Core 
+# Functionele Documentatie EVA Core 
 
-# Purpose: None 
+## Purpose 
 
-# Accountabilities: ['Documenteren van functionaliteiten binnen het EVA platform'] 
+None 
 
-# People: ['Leni Hakvoort']
+
+
+## Accountabilities 
+
+* Documenteren van functionaliteiten binnen het EVA platform
+
+ 
+
+## People 
+
+* Leni Hakvoort
+

@@ -1,7 +1,22 @@
-# Role: Authorized Signature 
+# Authorized Signature 
 
-# Purpose: Legally represent New Black BV 
+## Purpose 
 
-# Accountabilities: ['Sign agreements on behalf of New Black BV'] 
+Legally represent New Black BV 
 
-# People: ['Steven Bakker', 'Lub ten Napel', 'Mark Gerrits']
+
+
+## Accountabilities 
+
+* Sign agreements on behalf of New Black BV
+
+ 
+
+## People 
+
+* Steven Bakker
+
+* Lub ten Napel
+
+* Mark Gerrits
+

@@ -1,7 +1,24 @@
-# Role: M&A Maestro 
+# M&A Maestro 
 
-# Purpose: Initiating, supervising and executing possible mergers and acquisitions 
+## Purpose 
 
-# Accountabilities: ['Providing supervision for added value and financial impact', 'Assessing risk and compliance', 'Guarding culture fit', 'Deploying adequate resources on M&A processes'] 
+Initiating, supervising and executing possible mergers and acquisitions 
 
-# People: ['Steven Bakker']
+
+
+## Accountabilities 
+
+* Providing supervision for added value and financial impact
+
+* Assessing risk and compliance
+
+* Guarding culture fit
+
+* Deploying adequate resources on M&A processes
+
+ 
+
+## People 
+
+* Steven Bakker
+

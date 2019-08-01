@@ -1,7 +1,18 @@
-# Role: Release Manager Apps Klantgebruik 
+# Release Manager Apps Klantgebruik 
 
-# Purpose: None 
+## Purpose 
 
-# Accountabilities: ['Uitrollen van juiste app-versies naar gebruikers'] 
+None 
 
-# People: ['Robert van der Poel']
+
+
+## Accountabilities 
+
+* Uitrollen van juiste app-versies naar gebruikers
+
+ 
+
+## People 
+
+* Robert van der Poel
+

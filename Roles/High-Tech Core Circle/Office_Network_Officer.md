@@ -1,7 +1,18 @@
-# Role: Office Network Officer 
+# Office Network Officer 
 
-# Purpose: Making sure that everyone in the office can rely on a stable network connection 
+## Purpose 
 
-# Accountabilities: ['Resolving problems with internet connection', 'Setting up connection if needed'] 
+Making sure that everyone in the office can rely on a stable network connection 
 
-# People: []
+
+
+## Accountabilities 
+
+* Resolving problems with internet connection
+
+* Setting up connection if needed
+
+ 
+
+## People 
+

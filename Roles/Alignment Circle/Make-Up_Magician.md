@@ -1,7 +1,18 @@
-# Role: Make-Up Magician 
+# Make-Up Magician 
 
-# Purpose: None 
+## Purpose 
 
-# Accountabilities: ['Implementeren van adaptive and responsive web designs'] 
+None 
 
-# People: ['Lub Hoekman']
+
+
+## Accountabilities 
+
+* Implementeren van adaptive and responsive web designs
+
+ 
+
+## People 
+
+* Lub Hoekman
+

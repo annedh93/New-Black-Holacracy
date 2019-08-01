@@ -1,7 +1,16 @@
-# Role: Frontend CI/CD 
+# Frontend CI/CD 
 
-# Purpose: Configuring and maintaining CI/CD street 
+## Purpose 
 
-# Accountabilities: ['Configuring and maintaining CI/CD street'] 
+Configuring and maintaining CI/CD street 
 
-# People: []
+
+
+## Accountabilities 
+
+* Configuring and maintaining CI/CD street
+
+ 
+
+## People 
+

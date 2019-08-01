@@ -1,7 +1,24 @@
-# Role: Subsidy specialist 
+# Subsidy specialist 
 
-# Purpose: The subsidy trajectory is on track. 
+## Purpose 
 
-# Accountabilities: ['Managing subsidies trajectory', 'Submitting applications', 'Registering hours', 'Searching subsidies trajectory'] 
+The subsidy trajectory is on track. 
 
-# People: ['Lub ten Napel']
+
+
+## Accountabilities 
+
+* Managing subsidies trajectory
+
+* Submitting applications
+
+* Registering hours
+
+* Searching subsidies trajectory
+
+ 
+
+## People 
+
+* Lub ten Napel
+
