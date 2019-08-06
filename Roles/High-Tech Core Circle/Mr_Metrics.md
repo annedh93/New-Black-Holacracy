@@ -10,7 +10,7 @@ Provide inside in the performance of EVA with regards to errors and performance 
 
 * Determining which metrics must be recorded
 
-* Collecting metrics
+* Collecting metrics!
 
 * Delivering metrics in one or more dashboards
 
